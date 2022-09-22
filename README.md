@@ -23,7 +23,7 @@ at once (Model B) for all the five scenarios explored in the article (with diffe
 
 #### Script Input: 
 - Dataset
-- Design of the scenarios 
+- Design of five scenarios exploring the relationship between different inputs/outputs
 - Definition of the hypothetical scenarios used to predict the outputs 
 
 #### Script Output: 
