@@ -8,3 +8,4 @@ The present contribution focuses on investigating the interaction of people and 
 
 Keywords: small-scale farming societies, Archaeology, Machine Learning, Bayesian networks, socio-ecological systems 
 
+[![DOI](https://zenodo.org/badge/539955660.svg)](https://zenodo.org/badge/latestdoi/539955660)
