@@ -5,7 +5,7 @@ article 'Exploring the role of ecology and social organisation in agropastoral s
 The objective of this study is to explore and quantify the interaction of people and environment in small-scale farming societies. 
 
 ## Description
-This code is written in R programming language and applied in the 'Dataset_S2", found in the Supporting Information of the research article. 
+This code is written in R programming language and applied in the 'S2_Dataset", found in the Supporting Information of the research article. 
 It does the following processes: 
 - Data pre-processing and cleaning
 - Recoding and discretization
