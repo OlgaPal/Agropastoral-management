@@ -31,7 +31,7 @@ at once (Model B) for all the five scenarios explored in the article (with diffe
 - arc strengths, plots and predictions of the all models considering the five scenarios explored
 
 ### Packages
-This code uses the following packages: arules, base, BiocGenerics, bnlearn, caret, datasets, DescTools, ggplot2, gplots, gRain, graph, graphics, gRbase, 
+The following packages are used: arules, base, BiocGenerics, bnlearn, caret, datasets, DescTools, ggplot2, gplots, gRain, graph, graphics, gRbase, 
 grDevices, grid, lattice, Matrix, methods, naniar, parallel, plyr, readxl, Rgraphviz, utils, visdat. 
 
 
