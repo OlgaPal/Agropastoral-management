@@ -1,6 +1,6 @@
 # Agropastoral-management #
 This is a resource code from a script written by Olga Palacios, Juan Antonio Barceló and Rosario Delgado to conduct the experimental analyses of the research
-article 'Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach' (currently under review).
+article: Palacios O, Barceló JA, Delgado R (2022) Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. PLOS ONE 17(10): e0276088. https://doi.org/10.1371/journal.pone.0276088
 
 The objective of this study is to explore and quantify the interaction of people and environment in small-scale farming societies. 
 
